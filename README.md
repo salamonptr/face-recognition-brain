@@ -1,4 +1,4 @@
-# SmartBrain - v3
+# SmartBrain 
 Final project for ZTM course
 
 
